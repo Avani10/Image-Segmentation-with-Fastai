@@ -7,7 +7,7 @@
  ### Results:
  
 <img src ="Images/image1.png" width='450' height='600'> | <img src ="Images/image2.png" width='450' height='600'>
-<img src ="Images/result1.png" width='1200' height='450'> 
+<img src ="Images/result1.png"> 
 
  
  
