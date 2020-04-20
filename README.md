@@ -9,10 +9,10 @@
 <img src ="Images/image1.png" width='450' height='600'> | <img src ="Images/image2.png" width='450' height='600'>
 
 #### Analyzed result 1:
-<img src ="Images/result1.png" height='350'> 
+<img src ="Images/result1.png" height='300'> 
 
 #### Analyzed result 2:
-<img src ="Images/result%202.png" height='350'> 
+<img src ="Images/result%202.png" height='300'> 
 
  
  
