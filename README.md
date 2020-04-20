@@ -6,6 +6,9 @@
  
  ### Results:
  
+<img src ="Images/image1.png" width='450' height='600'> | <img src ="Images/image2.png" width='450' height='600'>
+<img src ="Images/result1.png" width='450' height='1200'> 
+<img src ="Images/result%202.png" width='450' height='1200'>
 
  
  
