@@ -4,7 +4,7 @@
  1. The Collab notebook gives the training code 
  2. Results from app deployed on local are shown below
  
- CAMVID dataset reference:
+ CAMVID dataset reference:http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/
  
  ### Results:
  
